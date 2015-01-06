@@ -11,8 +11,6 @@
       "type": "MIT"
     }
   ],
-  "dependencies": {
-    "framework-quartz": "~0.0.1"
-  },
+  "dependencies": {},
   "targetDependencies": {}
 }
