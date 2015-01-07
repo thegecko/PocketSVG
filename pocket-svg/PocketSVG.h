@@ -22,11 +22,7 @@
 //  THE SOFTWARE.
 //
 
-#if TARGET_OS_IPHONE
 #import <UIKit/UIKit.h>
-#else
-#import <Cocoa/Cocoa.h>
-#endif
 
 @interface PocketSVG : NSObject {
 	@private
