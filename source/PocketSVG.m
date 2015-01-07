@@ -23,7 +23,7 @@
 //
 
 
-#import "PocketSVG.h"
+#import "pocketsvg/PocketSVG.h"
 
 NSInteger const maxPathComplexity	= 1000;
 NSInteger const maxParameters		= 64;
