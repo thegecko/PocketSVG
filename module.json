@@ -1,6 +1,6 @@
 {
   "name": "pocket-svg",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "description": "An Objective-C class that converts Scalable Vector Graphics into Core Graphics elements.",
   "keywords": [],
   "author": "Ponderwell, Ariel Elkin, and Contributors",
